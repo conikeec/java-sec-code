@@ -1,4 +1,4 @@
-# Java Sec Code 
+# Java Sec Code
 
 Java sec code is a very powerful and friendly project for learning Java vulnerability code.
 
